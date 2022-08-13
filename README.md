@@ -8,8 +8,8 @@ The board has the same footprint (and should be pin compatible) with the Wemos D
 
 
 
-<img src="./docs/top.png" width=500>
-<img src="./docs/bot.png" width=500>
+<img src="./docs/top.jpg" width=500>
+<img src="./docs/bot.jpg" width=500>
 
 
 Use at your own risk.
