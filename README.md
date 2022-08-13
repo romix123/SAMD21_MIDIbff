@@ -8,8 +8,8 @@ The board has the same footprint (and should be pin compatible) with the Wemos D
 
 
 
-<img src="./docs/QTPY_MIDI_bff_front.png" width=500>
-<img src="./docs/QTPY_MIDI_bff_back.png" width=500>
+<img src="./docs/top.png" width=500>
+<img src="./docs/bot.png" width=500>
 
 
 Use at your own risk.
